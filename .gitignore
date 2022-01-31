@@ -1,0 +1,7 @@
+build
+austama.egg*
+dist
+venv
+**/__pycache__
+**.db
+

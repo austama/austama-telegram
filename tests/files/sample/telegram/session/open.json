@@ -1,0 +1,9 @@
+{
+    "method": "telegram.session.open",
+    "params": {
+        "name": "my_session_name",
+        "id": "my_api_id",
+        "hash": "my_api_hash",
+        "phone": "+123456789"
+    }
+}

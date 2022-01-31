@@ -1,0 +1,13 @@
+{
+    "method": "telegram.message.send",
+    "params": {
+        "_session": {
+            "type": "string",
+            "params": {
+                "content": "my_string_session"
+            }
+        },
+        "message": "Hello world!",
+        "media": "base64_media"
+    }
+}
